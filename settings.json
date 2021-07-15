@@ -1,0 +1,18 @@
+{
+    "name": "ForceField",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Force",
+        "/category/asset_value_tracking/core-token/symbol": "FRCE",
+        "/category/asset_value_tracking/core-token/decimals": "5",
+        "/category/asset_value_tracking/core-token/supply": "31415927",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "single"
+    }
+}
